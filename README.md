@@ -16,9 +16,9 @@ Written in the Processing.
 ## What it might looks like
 
 <p>
-	<img src="images/sample1.png" />
+	<img src="images/sample1.jpeg" />
 </p>
 
 <p>
-	<img src="images/sample2.png" />
+	<img src="images/sample2.jpeg" />
 </p>
